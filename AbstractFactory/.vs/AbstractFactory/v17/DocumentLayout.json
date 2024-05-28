@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KHAI\\.NET\\RGR\\AbstractFactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D40FFD18-43ED-4263-A968-FB048C4EA357}|AbstractFactory\\AbstractFactory.csproj|d:\\khai\\.net\\rgr\\abstractfactory\\abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40FFD18-43ED-4263-A968-FB048C4EA357}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40FFD18-43ED-4263-A968-FB048C4EA357}|AbstractFactory\\AbstractFactory.csproj|d:\\khai\\.net\\rgr\\abstractfactory\\abstractfactory\\factories\\concretefactory2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40FFD18-43ED-4263-A968-FB048C4EA357}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\factories\\concretefactory2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40FFD18-43ED-4263-A968-FB048C4EA357}|AbstractFactory\\AbstractFactory.csproj|d:\\khai\\.net\\rgr\\abstractfactory\\abstractfactory\\factories\\concretefactory1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40FFD18-43ED-4263-A968-FB048C4EA357}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\factories\\concretefactory1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40FFD18-43ED-4263-A968-FB048C4EA357}|AbstractFactory\\AbstractFactory.csproj|d:\\khai\\.net\\rgr\\abstractfactory\\abstractfactory\\interfaces\\iabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40FFD18-43ED-4263-A968-FB048C4EA357}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\interfaces\\iabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40FFD18-43ED-4263-A968-FB048C4EA357}|AbstractFactory\\AbstractFactory.csproj|d:\\khai\\.net\\rgr\\abstractfactory\\abstractfactory\\products\\concreteproducta1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40FFD18-43ED-4263-A968-FB048C4EA357}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\products\\concreteproducta1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40FFD18-43ED-4263-A968-FB048C4EA357}|AbstractFactory\\AbstractFactory.csproj|d:\\khai\\.net\\rgr\\abstractfactory\\abstractfactory\\products\\concreteproductb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40FFD18-43ED-4263-A968-FB048C4EA357}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\products\\concreteproductb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40FFD18-43ED-4263-A968-FB048C4EA357}|AbstractFactory\\AbstractFactory.csproj|d:\\khai\\.net\\rgr\\abstractfactory\\abstractfactory\\interfaces\\iproducta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40FFD18-43ED-4263-A968-FB048C4EA357}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\interfaces\\iproducta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40FFD18-43ED-4263-A968-FB048C4EA357}|AbstractFactory\\AbstractFactory.csproj|d:\\khai\\.net\\rgr\\abstractfactory\\abstractfactory\\interfaces\\iproductb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40FFD18-43ED-4263-A968-FB048C4EA357}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\interfaces\\iproductb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConcreteFactory2.cs",
+              "DocumentMoniker": "D:\\KHAI\\.NET\\RGR\\AbstractFactory\\AbstractFactory\\Factories\\ConcreteFactory2.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Factories\\ConcreteFactory2.cs",
+              "ToolTip": "D:\\KHAI\\.NET\\RGR\\AbstractFactory\\AbstractFactory\\Factories\\ConcreteFactory2.cs",
+              "RelativeToolTip": "AbstractFactory\\Factories\\ConcreteFactory2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:12:39.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConcreteProductA1.cs",
+              "DocumentMoniker": "D:\\KHAI\\.NET\\RGR\\AbstractFactory\\AbstractFactory\\Products\\ConcreteProductA1.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Products\\ConcreteProductA1.cs",
+              "ToolTip": "D:\\KHAI\\.NET\\RGR\\AbstractFactory\\AbstractFactory\\Products\\ConcreteProductA1.cs",
+              "RelativeToolTip": "AbstractFactory\\Products\\ConcreteProductA1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:11:42.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConcreteFactory1.cs",
+              "DocumentMoniker": "D:\\KHAI\\.NET\\RGR\\AbstractFactory\\AbstractFactory\\Factories\\ConcreteFactory1.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Factories\\ConcreteFactory1.cs",
+              "ToolTip": "D:\\KHAI\\.NET\\RGR\\AbstractFactory\\AbstractFactory\\Factories\\ConcreteFactory1.cs",
+              "RelativeToolTip": "AbstractFactory\\Factories\\ConcreteFactory1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:11:36.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConcreteProductB1.cs",
+              "DocumentMoniker": "D:\\KHAI\\.NET\\RGR\\AbstractFactory\\AbstractFactory\\Products\\ConcreteProductB1.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Products\\ConcreteProductB1.cs",
+              "ToolTip": "D:\\KHAI\\.NET\\RGR\\AbstractFactory\\AbstractFactory\\Products\\ConcreteProductB1.cs",
+              "RelativeToolTip": "AbstractFactory\\Products\\ConcreteProductB1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:07:27.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductB.cs",
+              "DocumentMoniker": "D:\\KHAI\\.NET\\RGR\\AbstractFactory\\AbstractFactory\\Interfaces\\IProductB.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Interfaces\\IProductB.cs",
+              "ToolTip": "D:\\KHAI\\.NET\\RGR\\AbstractFactory\\AbstractFactory\\Interfaces\\IProductB.cs",
+              "RelativeToolTip": "AbstractFactory\\Interfaces\\IProductB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:05:19.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductA.cs",
+              "DocumentMoniker": "D:\\KHAI\\.NET\\RGR\\AbstractFactory\\AbstractFactory\\Interfaces\\IProductA.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Interfaces\\IProductA.cs",
+              "ToolTip": "D:\\KHAI\\.NET\\RGR\\AbstractFactory\\AbstractFactory\\Interfaces\\IProductA.cs",
+              "RelativeToolTip": "AbstractFactory\\Interfaces\\IProductA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:04:48.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KHAI\\.NET\\RGR\\AbstractFactory\\AbstractFactory\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Program.cs",
+              "ToolTip": "D:\\KHAI\\.NET\\RGR\\AbstractFactory\\AbstractFactory\\Program.cs",
+              "RelativeToolTip": "AbstractFactory\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:04:04.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAbstractFactory.cs",
+              "DocumentMoniker": "D:\\KHAI\\.NET\\RGR\\AbstractFactory\\AbstractFactory\\Interfaces\\IAbstractFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Interfaces\\IAbstractFactory.cs",
+              "ToolTip": "D:\\KHAI\\.NET\\RGR\\AbstractFactory\\AbstractFactory\\Interfaces\\IAbstractFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\Interfaces\\IAbstractFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:11:49.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

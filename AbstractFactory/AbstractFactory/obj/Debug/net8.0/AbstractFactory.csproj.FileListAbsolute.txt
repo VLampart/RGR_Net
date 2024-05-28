@@ -1,0 +1,15 @@
+D:\KHAI\.NET\RGR\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\KHAI\.NET\RGR\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\KHAI\.NET\RGR\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfo.cs
+D:\KHAI\.NET\RGR\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\KHAI\.NET\RGR\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.sourcelink.json
+D:\KHAI\.NET\RGR\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.exe
+D:\KHAI\.NET\RGR\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.deps.json
+D:\KHAI\.NET\RGR\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.runtimeconfig.json
+D:\KHAI\.NET\RGR\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.dll
+D:\KHAI\.NET\RGR\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.pdb
+D:\KHAI\.NET\RGR\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.dll
+D:\KHAI\.NET\RGR\AbstractFactory\AbstractFactory\obj\Debug\net8.0\refint\AbstractFactory.dll
+D:\KHAI\.NET\RGR\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.pdb
+D:\KHAI\.NET\RGR\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.genruntimeconfig.cache
+D:\KHAI\.NET\RGR\AbstractFactory\AbstractFactory\obj\Debug\net8.0\ref\AbstractFactory.dll

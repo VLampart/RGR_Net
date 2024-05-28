@@ -1,0 +1,15 @@
+D:\KHAI\.NET\RGR\Memento\Memento\bin\Debug\net8.0\Memento.exe
+D:\KHAI\.NET\RGR\Memento\Memento\bin\Debug\net8.0\Memento.deps.json
+D:\KHAI\.NET\RGR\Memento\Memento\bin\Debug\net8.0\Memento.runtimeconfig.json
+D:\KHAI\.NET\RGR\Memento\Memento\bin\Debug\net8.0\Memento.dll
+D:\KHAI\.NET\RGR\Memento\Memento\bin\Debug\net8.0\Memento.pdb
+D:\KHAI\.NET\RGR\Memento\Memento\obj\Debug\net8.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+D:\KHAI\.NET\RGR\Memento\Memento\obj\Debug\net8.0\Memento.AssemblyInfoInputs.cache
+D:\KHAI\.NET\RGR\Memento\Memento\obj\Debug\net8.0\Memento.AssemblyInfo.cs
+D:\KHAI\.NET\RGR\Memento\Memento\obj\Debug\net8.0\Memento.csproj.CoreCompileInputs.cache
+D:\KHAI\.NET\RGR\Memento\Memento\obj\Debug\net8.0\Memento.sourcelink.json
+D:\KHAI\.NET\RGR\Memento\Memento\obj\Debug\net8.0\Memento.dll
+D:\KHAI\.NET\RGR\Memento\Memento\obj\Debug\net8.0\refint\Memento.dll
+D:\KHAI\.NET\RGR\Memento\Memento\obj\Debug\net8.0\Memento.pdb
+D:\KHAI\.NET\RGR\Memento\Memento\obj\Debug\net8.0\Memento.genruntimeconfig.cache
+D:\KHAI\.NET\RGR\Memento\Memento\obj\Debug\net8.0\ref\Memento.dll

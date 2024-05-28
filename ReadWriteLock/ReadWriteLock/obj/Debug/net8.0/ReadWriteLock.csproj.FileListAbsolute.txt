@@ -1,0 +1,15 @@
+D:\KHAI\.NET\RGR\ReadWriteLock\ReadWriteLock\bin\Debug\net8.0\ReadWriteLock.exe
+D:\KHAI\.NET\RGR\ReadWriteLock\ReadWriteLock\bin\Debug\net8.0\ReadWriteLock.deps.json
+D:\KHAI\.NET\RGR\ReadWriteLock\ReadWriteLock\bin\Debug\net8.0\ReadWriteLock.runtimeconfig.json
+D:\KHAI\.NET\RGR\ReadWriteLock\ReadWriteLock\bin\Debug\net8.0\ReadWriteLock.dll
+D:\KHAI\.NET\RGR\ReadWriteLock\ReadWriteLock\bin\Debug\net8.0\ReadWriteLock.pdb
+D:\KHAI\.NET\RGR\ReadWriteLock\ReadWriteLock\obj\Debug\net8.0\ReadWriteLock.GeneratedMSBuildEditorConfig.editorconfig
+D:\KHAI\.NET\RGR\ReadWriteLock\ReadWriteLock\obj\Debug\net8.0\ReadWriteLock.AssemblyInfoInputs.cache
+D:\KHAI\.NET\RGR\ReadWriteLock\ReadWriteLock\obj\Debug\net8.0\ReadWriteLock.AssemblyInfo.cs
+D:\KHAI\.NET\RGR\ReadWriteLock\ReadWriteLock\obj\Debug\net8.0\ReadWriteLock.csproj.CoreCompileInputs.cache
+D:\KHAI\.NET\RGR\ReadWriteLock\ReadWriteLock\obj\Debug\net8.0\ReadWriteLock.sourcelink.json
+D:\KHAI\.NET\RGR\ReadWriteLock\ReadWriteLock\obj\Debug\net8.0\ReadWriteLock.dll
+D:\KHAI\.NET\RGR\ReadWriteLock\ReadWriteLock\obj\Debug\net8.0\refint\ReadWriteLock.dll
+D:\KHAI\.NET\RGR\ReadWriteLock\ReadWriteLock\obj\Debug\net8.0\ReadWriteLock.pdb
+D:\KHAI\.NET\RGR\ReadWriteLock\ReadWriteLock\obj\Debug\net8.0\ReadWriteLock.genruntimeconfig.cache
+D:\KHAI\.NET\RGR\ReadWriteLock\ReadWriteLock\obj\Debug\net8.0\ref\ReadWriteLock.dll

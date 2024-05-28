@@ -1,6 +1,6 @@
 # Розрахунково-графічна робота 611пст 11 варіант
 
-## Creational pattern: [Abstract factory](https://en.wikipedia.org/wiki/Abstract_factory_pattern).
+## Creational pattern: [Abstract factory](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
 
 Abstract Factory — це паттерн проектування, який надає інтерфейс для створення сімейств взаємозалежних або пов'язаних об'єктів без необхідності вказувати їх конкретні класи. Його структура допомагає створювати об'єкти, які є частинами одного цілого або одного "сімейства".
 

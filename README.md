@@ -78,6 +78,7 @@ classDiagram
     ConcreteFactory1 --> ConcreteProductB1 : createProductB()
     ConcreteFactory2 --> ConcreteProductA2 : createProductA()
     ConcreteFactory2 --> ConcreteProductB2 : createProductB()
+```
 
 ### Діаграма взаємодії
 
@@ -114,7 +115,7 @@ sequenceDiagram
     Client ->> ConcreteProductB1: useProductB()
     activate ConcreteProductB1
     deactivate ConcreteProductB1
-
+```
 
 ## Structural pattern: [Facade](https://en.wikipedia.org/wiki/Facade_pattern)
 
@@ -154,6 +155,7 @@ classDiagram
     Facade ..> Subsystem2
     Facade ..> Subsystem3
     Client --> Facade
+```
 
 ### Діаграма взаємодії
 
@@ -191,6 +193,7 @@ sequenceDiagram
     deactivate Subsystem3
     Facade -->> Client: response3
     deactivate Facade
+```
 
 ## Behavioral pattern [Memento](https://en.wikipedia.org/wiki/Memento_pattern)
 
@@ -232,6 +235,7 @@ classDiagram
     Originator "1" -- "0..*" Memento : "uses >"
     Originator "1" -- "1" Caretaker : "uses >"
     State "1" -- "1" Memento : "stores >"
+```
 
 ### Діаграма взаємодії
 
@@ -272,6 +276,7 @@ sequenceDiagram
     Originator ->> State: getStateData()
     Note over State: Відновлення стану
     State -->> Originator: currentState2
+```
 
 ## Concurrency pattern [Read write lock](https://en.wikipedia.org/wiki/Readers%E2%80%93writer_lock)
 
@@ -311,6 +316,7 @@ classDiagram
     Reader --|> ReadWriteLock
     Writer --|> ReadWriteLock
     Client --|> ReadWriteLock
+```
 
 ### Діаграма взаємодії
 
@@ -334,3 +340,4 @@ sequenceDiagram
     Writer->>ReadWriteLock: writeUnlock()
     deactivate Writer
     ReadWriteLock-->>Client: Write operation completed
+```

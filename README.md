@@ -25,6 +25,7 @@ Abstract Factory — це паттерн проектування, який на
 
 ### UML-діаграма
 
+```mermaid
 classDiagram
     direction TB
 
@@ -80,6 +81,7 @@ classDiagram
 
 ### Діаграма взаємодії
 
+```mermaid
 sequenceDiagram
     participant Client
     participant AbstractFactory
@@ -127,6 +129,8 @@ sequenceDiagram
 		Підсистема не знає про існування фасаду та працює незалежно від нього.
 
 ### UML-діаграма
+
+```mermaid
 classDiagram
     class Facade {
         +operation1()
@@ -153,6 +157,7 @@ classDiagram
 
 ### Діаграма взаємодії
 
+```mermaid
 sequenceDiagram
     participant Client
     participant Facade
@@ -198,6 +203,7 @@ sequenceDiagram
 
 ### UML-діаграма
 
+```mermaid
 classDiagram
     class Originator {
         + setState(state: State)
@@ -229,6 +235,7 @@ classDiagram
 
 ### Діаграма взаємодії
 
+```mermaid
 sequenceDiagram
     participant Client
     participant Originator
@@ -279,6 +286,7 @@ Read-write lock - це механізм синхронізації доступ�
 
 ### UML-діаграма
 
+```mermaid
 classDiagram
     class ReadWriteLock {
         +readLock(): void
@@ -306,6 +314,7 @@ classDiagram
 
 ### Діаграма взаємодії
 
+```mermaid
 sequenceDiagram
     participant Client
     participant ReadWriteLock
@@ -325,4 +334,3 @@ sequenceDiagram
     Writer->>ReadWriteLock: writeUnlock()
     deactivate Writer
     ReadWriteLock-->>Client: Write operation completed
-
